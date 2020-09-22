@@ -42,7 +42,7 @@ export default {
 <style>
 .vjs-custom-skin {
   width: 100%;
-  color: #520202 !important;
+  color: #ffffff !important;
 }
 
 .vjs-custom-skin > .video-js {
@@ -54,16 +54,16 @@ export default {
 
 .vjs-custom-skin > .video-js .vjs-play-progress,
 .vjs-custom-skin > .video-js .vjs-volume-level {
-  background-color: #520202 !important;
+  background-color: #ffffff !important;
 }
 
 .vjs-custom-skin > .video-js .vjs-loading-spinner {
-  border-color: #520202 !important;
+  border-color: #ffffff !important;
 }
 
 .video-js:hover .vjs-big-play-button,
 .vjs-custom-skin > .video-js .vjs-big-play-button:focus,
 .vjs-custom-skin > .video-js .vjs-big-play-button:active {
-  background-color: #520202 !important;
+  background-color: #ffffff !important;
 }
 </style>
