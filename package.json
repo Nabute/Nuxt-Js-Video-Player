@@ -9,7 +9,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/axios": "^5.12.5",
     "core-js": "^3.7.0",
     "nuxt": "^2.14.7",
     "video.js": "^7.10.2"
